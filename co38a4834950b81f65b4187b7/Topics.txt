@@ -1,0 +1,74 @@
+This course contains 151 interactive screen casts spread across 4 modules.
+
+Build a React info site
+
+32 lessons2 hours 35 min
+
+
+Module 1:)
+
+
+1. Welcome to an Introduction to React!
+3:25
+2. What we'll learn
+3:38
+3. First React
+8:02
+4. First React Practice
+1:48
+5. Local setup (the quick way)
+1:57
+6. Why React? It's Composable!
+4:47
+7. Why React? It's declarative
+4:42
+8. JSX
+9:39
+9. Drag and Drop Deploy with Netlify
+2:34
+10. Goodbye, CDNs!
+4:05
+11. UPDATE: New React 18 createRoot API
+4:18
+12. Thought experiment: use .append() instead of ReactDOM.render()?
+5:28
+13. Project part 1 - markup
+4:44
+14. Pop quiz!
+5:08
+15. Custom Components
+6:55
+16. Custom Components part 2
+3:57
+17. Custom Components Quiz
+2:47
+18. Parent/Child Components
+4:54
+19. Styling with Classes
+6:43
+20. Organize components
+7:41
+21. Run React locally with Vite
+9:30
+22. Quick mental outline of project
+3:54
+23. Project setup
+7:13
+24. Quick Figma Walk through
+1:40
+25. Navbar & Styling
+7:16
+26. Main Section
+7:44
+27. Color the bullets
+2:23
+28. Add background logo
+4:17
+29. React Section 1 Solo Project
+3:52
+30. Deploy Your React App with Netlify
+5:23
+31. Get a code review!
+2:39
+32. React Section 1 Recap
+2:37

@@ -2,3 +2,17 @@ html, body {
     margin: 0;
     padding: 0;
 }
+
+.nav-bar {
+    display: inline;
+}
+
+.nav-items {
+    list-style: none;
+    display: flex;
+}
+
+.nav-items > li {
+    flex-direction: row;
+    margin: 4px;
+}
