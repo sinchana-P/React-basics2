@@ -1,74 +1,60 @@
-This course contains 151 interactive screen casts spread across 4 modules.
+Module 2 :)
 
-Build a React info site
+This playlist is part of Learn React for free
+Build an AirBnb Experiences clone
 
-32 lessons2 hours 35 min
-
-
-Module 1:)
-
-
-1. Welcome to an Introduction to React!
-3:25
-2. What we'll learn
-3:38
-3. First React
-8:02
-4. First React Practice
-1:48
-5. Local setup (the quick way)
-1:57
-6. Why React? It's Composable!
-4:47
-7. Why React? It's declarative
-4:42
-8. JSX
-9:39
-9. Drag and Drop Deploy with Netlify
-2:34
-10. Goodbye, CDNs!
-4:05
-11. UPDATE: New React 18 createRoot API
-4:18
-12. Thought experiment: use .append() instead of ReactDOM.render()?
+27 lessons2 hours 12 min
+1. Section intro & Figma file
+4:11
+2. Project setup: Navbar
+5:40
+3. Project setup: Hero
+5:46
+4. Project: Card Component
+7:18
+5. Problem - not reusable
+1:55
+6. Props Part 1: Understanding the Concept
+3:17
+7. Props Part 2: Reusable Components
+1:56
+8. Aside: JS inside JSX
+6:50
+9. Props part 3: Create a contact component
+8:28
+10. Props part 4: receiving props in a component
 5:28
-13. Project part 1 - markup
-4:44
-14. Pop quiz!
-5:08
-15. Custom Components
-6:55
-16. Custom Components part 2
+11. Prop quiz! (Get it?? 😆)
+4:25
+12. Destructuring props
+3:53
+13. Props practice
+9:03
+14. Passing in non-string props
 3:57
-17. Custom Components Quiz
-2:47
-18. Parent/Child Components
-4:54
-19. Styling with Classes
-6:43
-20. Organize components
-7:41
-21. Run React locally with Vite
-9:30
-22. Quick mental outline of project
+15. Project: pass props to card component
+6:55
+16. Review - array .map()
+7:27
+17. React renders arrays
+4:29
+18. Mapping components
+4:32
+19. Map quiz!
+3:38
+20. Loading images from .map()
+1:34
+21. Project: Map experiences data into components
+5:20
+22. Project: key prop
+3:29
+23. Project: Sold Out Badge
+9:06
+24. Project: Pass object as props
+4:25
+25. Project: Spread object as props
 3:54
-23. Project setup
-7:13
-24. Quick Figma Walk through
-1:40
-25. Navbar & Styling
-7:16
-26. Main Section
-7:44
-27. Color the bullets
-2:23
-28. Add background logo
-4:17
-29. React Section 1 Solo Project
-3:52
-30. Deploy Your React App with Netlify
-5:23
-31. Get a code review!
-2:39
-32. React Section 1 Recap
-2:37
+26. React Section 2 Solo Project
+3:22
+27. React Section 2 Recap
+1:42
